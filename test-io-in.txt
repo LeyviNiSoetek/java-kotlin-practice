@@ -1,0 +1,7 @@
+This file is for java.io input practices.
+
+這個檔案是用來練習java.io的輸入用的。
+
+A long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long line.
+
+end of file.
